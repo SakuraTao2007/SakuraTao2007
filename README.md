@@ -9,5 +9,3 @@
 ### IDE
 <code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/idea.png "Intellij IDEA")</code>
 > (一个 IDEA 够了吧？)
-
-<img align="right" src="https://i.loli.net/2021/07/28/J9DFkYNvwPzld41.png">

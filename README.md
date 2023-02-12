@@ -6,5 +6,3 @@
 - :hammer: Member of LawaTeam
 - :ram: Nothing now
 - 🥛: Tea Milk, WHY NOT!
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraTao2007&layout=compact" />

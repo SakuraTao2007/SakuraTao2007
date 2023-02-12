@@ -5,4 +5,4 @@
 - :orange_book: Focusing on Java, Kotlin, C/C++ & Python
 - :hammer: Member of LawaTeam
 - :ram: Nothing now
-- :meat_on_bone: Tea Milk, WHY NOT!
+- 🥛: Tea Milk, WHY NOT!

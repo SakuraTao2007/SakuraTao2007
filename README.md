@@ -4,5 +4,5 @@
 - 🧑‍🍼 I'm a Junior high school student in Grade 9
 - :orange_book: Focusing on Java, Kotlin, C/C++ & Python
 - :hammer: Member of LawaTeam
-- :ram: Nothing now
+- :ram: Developing something very special!
 - 🥛 Tea Milk, WHY NOT!

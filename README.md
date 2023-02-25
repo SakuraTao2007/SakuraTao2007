@@ -6,4 +6,4 @@
 - :hammer: Member of LawaTeam
 - :ram: Developing something very special!
 - 🥛 Tea Milk, WHY NOT!
-- [![](https://visitcount.itsvg.in/api?id=SakuraTao2007&label=Profile%20Views&color=1&icon=7&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SakuraTao2007&label=Profile%20Views&color=1&icon=7&pretty=false)](https://visitcount.itsvg.in)

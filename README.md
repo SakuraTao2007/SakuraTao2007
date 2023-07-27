@@ -2,7 +2,7 @@
 
 ## Hi, there 👋
 
-- 🧑‍🍼 I'm a Junior high school student in Grade 9
+- 🧑‍🍼 I'm a Senior high school student in Senior One
 - :orange_book: Focusing on Java, Kotlin, C/C++ & Python
 - :hammer: Member of LawaTeam
 - :ram: Developing something very special!

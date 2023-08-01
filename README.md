@@ -12,5 +12,3 @@
 - 🥛 Tea Milk, WHY NOT!
 
   <img src="https://visitcount.itsvg.in/api?id=SakuraTao2007&label=Profile%20Views&color=1&icon=7&pretty=false" />
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->

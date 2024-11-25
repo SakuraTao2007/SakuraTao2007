@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is SakuraTao2007, a Senior high school student in the second years</h2>
+<h2 align="center">Hi 👋! My name is SakuraTao2007, a high school student in the second years</h2>
 
 ###
 
